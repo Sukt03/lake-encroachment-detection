@@ -260,8 +260,6 @@ LAKE_002,1.67,0.12,0.89,0.45
 - **Time-series plots** of change indicators
 - **Before/after comparison viewers**
 
----
-
 ## 🔬 Technical Specifications
 
 ### Performance Metrics
@@ -292,45 +290,4 @@ print('Kappa Coefficient:', accuracy.kappa());
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions to improve the analysis framework!
-
-### Development Workflow
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Contribution Guidelines
-- Follow Google Earth Engine [style guide](https://developers.google.com/earth-engine/guides/style_guide)
-- Include unit tests for new functions
-- Update documentation for API changes
-- Add example usage for new features
-
-## 📋 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🆘 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/lake-encroachment-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/lake-encroachment-detection/discussions)
-- **Email**: your.email@domain.com
-- **Documentation**: [Project Wiki](https://github.com/your-username/lake-encroachment-detection/wiki)
-
----
-
-## 🙏 Acknowledgments
-
-- **Google Earth Engine Team** for providing the cloud computing platform
-- **ESA Copernicus Programme** for Sentinel-2 data access
-- **Google Research** for Dynamic World and Open Buildings datasets
-- **Open Source Community** for geospatial analysis tools and libraries
-
----
-
-**🔄 Last Updated**: September 2025 | **⭐ Version**: 1.0.0
